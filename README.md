@@ -13,8 +13,6 @@ This repository contains all code, documentation, and resources required to buil
 - **Dhakshith Sureshkumar** 
 - **Mrigeesh Ashwin**
   
-For doubts, discussions, or collaboration, feel free to reach out to the mentors via Discord/email.
-
 ---
 ## Hardware Requirements
 
